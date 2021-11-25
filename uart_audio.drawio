@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T09:12:37.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="-6c9tlZLeKExeA5GTu3a" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-25T09:13:19.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1054.29" etag="DQOkNhnMyKd1sm9RfIcF" version="15.8.2" type="github">
   <diagram id="0SSqz05uCD_B4Oa7NDAf" name="Page-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,9 +73,6 @@
         <mxCell id="Vx_kvmbCpHdBKnT_1PFn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vx_kvmbCpHdBKnT_1PFn-31" target="Vx_kvmbCpHdBKnT_1PFn-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vx_kvmbCpHdBKnT_1PFn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vx_kvmbCpHdBKnT_1PFn-31" target="Vx_kvmbCpHdBKnT_1PFn-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Vx_kvmbCpHdBKnT_1PFn-31" value="UART_RX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
@@ -126,6 +123,9 @@
         </mxCell>
         <mxCell id="Vx_kvmbCpHdBKnT_1PFn-50" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="310.15" y="1230" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Vx_kvmbCpHdBKnT_1PFn-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vx_kvmbCpHdBKnT_1PFn-51" target="Vx_kvmbCpHdBKnT_1PFn-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vx_kvmbCpHdBKnT_1PFn-51" value="4G/5G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="1140" width="50" height="90" as="geometry" />
